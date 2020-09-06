@@ -1,0 +1,14 @@
+C:\Users\eisen\Source\Repos\eisen1990\CsharpUnitTest\HwMockProj\bin\Debug\HwMockProj.exe.config
+C:\Users\eisen\Source\Repos\eisen1990\CsharpUnitTest\HwMockProj\bin\Debug\HwMockProj.exe
+C:\Users\eisen\Source\Repos\eisen1990\CsharpUnitTest\HwMockProj\bin\Debug\HwMockProj.pdb
+C:\Users\eisen\Source\Repos\eisen1990\CsharpUnitTest\HwMockProj\obj\Debug\MainWindow.g.cs
+C:\Users\eisen\Source\Repos\eisen1990\CsharpUnitTest\HwMockProj\obj\Debug\App.g.cs
+C:\Users\eisen\Source\Repos\eisen1990\CsharpUnitTest\HwMockProj\obj\Debug\HwMockProj_MarkupCompile.cache
+C:\Users\eisen\Source\Repos\eisen1990\CsharpUnitTest\HwMockProj\obj\Debug\HwMockProj_MarkupCompile.lref
+C:\Users\eisen\Source\Repos\eisen1990\CsharpUnitTest\HwMockProj\obj\Debug\MainWindow.baml
+C:\Users\eisen\Source\Repos\eisen1990\CsharpUnitTest\HwMockProj\obj\Debug\HwMockProj.g.resources
+C:\Users\eisen\Source\Repos\eisen1990\CsharpUnitTest\HwMockProj\obj\Debug\HwMockProj.Properties.Resources.resources
+C:\Users\eisen\Source\Repos\eisen1990\CsharpUnitTest\HwMockProj\obj\Debug\HwMockProj.csproj.GenerateResource.cache
+C:\Users\eisen\Source\Repos\eisen1990\CsharpUnitTest\HwMockProj\obj\Debug\HwMockProj.csproj.CoreCompileInputs.cache
+C:\Users\eisen\Source\Repos\eisen1990\CsharpUnitTest\HwMockProj\obj\Debug\HwMockProj.exe
+C:\Users\eisen\Source\Repos\eisen1990\CsharpUnitTest\HwMockProj\obj\Debug\HwMockProj.pdb
